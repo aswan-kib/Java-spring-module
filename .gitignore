@@ -20,14 +20,13 @@ target/
 *.in
 *.out
 *.txt
-main
 
 ### VS Code ###
 .vscode/
 **/.vscode/
 **/**/.vscode/
 
-
+**/gradle/
 **/.gradle/
 **/build/
 **/gradlew
